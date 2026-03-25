@@ -32,7 +32,7 @@ export default function Home() {
             <div className="lp-info-row">
               <span>📍 Municipality Office Building, Kuthuparamba</span>
               <span>🚚 Delivery Available</span>
-              <span>📞 +91 9876543210</span>
+              <span>📞 +91 7025212122</span>
             </div>
           </div>
         </div>
