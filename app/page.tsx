@@ -30,7 +30,7 @@ export default function Home() {
               🍽 View Full Menu
             </button>
             <div className="lp-info-row">
-              <span>📍 MG Road, Bangalore</span>
+              <span>📍 Municipality Office Building, Kuthuparamba</span>
               <span>🚚 Delivery Available</span>
               <span>📞 +91 9876543210</span>
             </div>

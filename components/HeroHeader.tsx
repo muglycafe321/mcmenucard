@@ -11,7 +11,7 @@ export function HeroHeader() {
       <h1 className="cafe-name">Mugly Café</h1>
       <p className="cafe-sub">DIGITAL MENU</p>
       <div className="hero-info">
-        <span>📍 MG Road, Bangalore</span>
+        <span>📍 Municipality Office Building, Kuthuparamba</span>
         <em>|</em>
         <span>🚚 Delivery Available</span>
         <em>|</em>
