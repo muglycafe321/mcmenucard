@@ -3,9 +3,9 @@
 import { useState } from 'react'
 import { OfferItem, MenuCategory } from '@/lib/types'
 import { supabase } from '@/lib/supabase'
-import { SpecialOfferPane } from './SpecialOfferPane'
-import { MenuItemsPane } from './MenuItemsPane'
-import { PreviewModal } from './PreviewModal'
+import { SpecialOfferPane } from '@/components/SpecialOfferPane'
+import { MenuItemsPane } from '@/components/MenuItemsPane'
+import { PreviewModal } from '@/components/PreviewModal'
 
 interface AdminDrawerProps {
   offerData: OfferItem[]
