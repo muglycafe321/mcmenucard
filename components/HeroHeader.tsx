@@ -15,7 +15,7 @@ export function HeroHeader() {
         <em>|</em>
         <span>🚚 Delivery Available</span>
         <em>|</em>
-        <span>📞 +91 9876543210</span>
+        <span>📞 +91 7025212122</span>
       </div>
     </header>
   )
